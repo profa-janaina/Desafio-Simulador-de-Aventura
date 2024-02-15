@@ -1,0 +1,5 @@
+O que eu aprendi neste projeto:
+    1-Singleton
+    2- Documentar funções, variáveis e classes.
+
+    Parei em gameOVer
